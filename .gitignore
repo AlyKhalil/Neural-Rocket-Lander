@@ -47,3 +47,5 @@ MLP/env/
 MLP/.ENV/
 MLP/env.bak/
 MLP/venv.bak/
+
+.DS*
